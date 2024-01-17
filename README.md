@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlbarKhan
 - 👀 I’m interested in Android Developemnt and Web Development
-- 🌱 I’m currently learning  Flutter 
-- 💞️ I’m looking to collaborate on Android projects
+- 🌱 I’m currently learning  React 
+- 💞️ I’m looking to collaborate on WebProjects
 - 📫 How to reach me albarkhan60@gmail.com
 
 <!---
